@@ -67,7 +67,7 @@ function TrendCard({
       <IconBadge icon={icon} />
 
       <div className="relative flex flex-col items-start gap-4 ">
-        <p className="font-display text-xl font-medium text-white lg:text-[20px] sm:text-[18px]">
+        <p className="font-display text-xl font-medium text-ink-100 lg:text-[20px] sm:text-[18px]">
           {title}
         </p>
 
