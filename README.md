@@ -6,7 +6,7 @@ This started as a UI I built from a Figma community template, and grew into a fu
 
 ## Live Demo
 
-*(add your deployed link here)*
+https://e-commerce-styleloom-adxs-ashen.vercel.app/products
 
 ## Screenshots
 
